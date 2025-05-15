@@ -2,3 +2,15 @@ theme: jekyll-theme-cayman
 
 title: Dr. Isha Jain
 description: MS, ENT
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+  
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

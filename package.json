@@ -1,0 +1,26 @@
+{
+  "name": "ishajain",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archajain/ishajain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archajain/ishajain/issues"
+  },
+  "homepage": "https://github.com/archajain/ishajain#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "marked": "^15.0.11",
+    "sass": "^1.88.0"
+  }
+}
